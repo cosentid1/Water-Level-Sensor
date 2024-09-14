@@ -1,6 +1,6 @@
 # Water-Level-Sensor
 
-Th
+The aim of this device is to help people with hearing or vision impairments know when they have poured the equivalent of half a cup of liquid.
 
 ## Table of Contents
 
@@ -9,6 +9,7 @@ Th
   3) Next Steps
 
 ## Design Overview
+When the desired amount has been reached, the sensor will trigger a buzzer and an LED light
   
 ## Demo Video
 
