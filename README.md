@@ -11,7 +11,7 @@ The aim of this device is to help people with hearing or vision impairments know
 ## Design Overview
 The two main electrical components of this design are an Arduino Uno R3 and a water level sensor. To wire up the sensor to the Arduino, 3 wires are needed:
   1) Power Supply: Connect the VCC pin of the sensor to the 5V output of the Arduino.
-  2) Ground: Connect the ground(GND) pin of the sensor to a GND on the Arduino.
+  2) Ground: Connect the ground (GND) pin of the sensor to a GND on the Arduino.
   3) Signal Output: Connect the output pin of the sensor to a digital input pin on the Arduino.
 
 
