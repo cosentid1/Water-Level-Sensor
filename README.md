@@ -13,6 +13,8 @@ The two main electrical components of this design are an Arduino Uno R3 and a wa
   1) Power Supply: Connect the VCC pin of the sensor to the 5V output of the Arduino.
   2) Ground: Connect the ground(GND) pin of the sensor to a GND on the Arduino.
   3) Signal Output: Connect the output pin of the sensor to a digital input pin on the Arduino.
+
+
 Once this has been done, use another pin on the Arduino as a digital output pin and connect a buzzer and a red LED in series from the output pin to another GND.
 1. **Setup**:
    - **Container Preparation**: Use a container with clearly marked levels, indicating half a cup. The container should be calibrated so that the sensor can accurately detect this volume.
