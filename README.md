@@ -14,9 +14,9 @@ The two main electrical components of this design are an Arduino Uno R3 and a wa
   2) Ground: Connect the ground (GND) pin of the sensor to a GND on the Arduino.
   3) Signal Output: Connect the output pin of the sensor to a digital input pin on the Arduino.
 
-Once this has been done, use another pin on the Arduino as a digital output pin and connect a buzzer and a red LED in series from the output pin to another GND. If all of this has been wired correctly, when the program is run, the buzzer and LED should light up once the sensor has recieved a reading that is above the threashold set in the code.
+Once this has been done, use another pin on the Arduino as a digital output pin and connect a buzzer and a red LED in series from the output pin to another GND. To use the sensor, simply run the program and place the water-level sensor in the measuring cup. Then pour in the liquid you are measuring and when the desired amount is reached (1/2 cup, 3/4 cup etc.), the buzzer will sound and the LED will light up as well, allowing for people with hearing impariments and vision impairments to know exactly when the amount has been reached.
 
-One important note about using the water-level sensor is that it's design makes it very sensitive to the angle that it is placed at in the measuring cup. If there is too much of an angle, then the reading will be off nad the wrong measurment will be recorded. This is why it is important to place the sensor as verticle as possible and prevent it from sliding when the liquid is beign poured.
+One important note about using the water-level sensor is that it's design makes it very sensitive to the angle that it is placed at in the measuring cup. If there is too much of an angle, then the reading will be off and the wrong measurment will be recorded. This is why it is important to place the sensor as verticle as possible and prevent it from sliding when the liquid is beign poured.
 
 ## Demo Video
 
