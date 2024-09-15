@@ -1,6 +1,6 @@
 # Water-Level-Sensor
 
-The aim of this device is to help people with hearing or vision impairments know when they have poured the equivalent of half a cup of liquid.
+The aim of this device is to assist individuals with hearing or vision impairments know when they have poured the equivalent of half a cup of liquid.
 
 ## Table of Contents
 
