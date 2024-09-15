@@ -22,7 +22,7 @@ One important note about using the water-level sensor is that it's design makes 
 https://github.com/user-attachments/assets/6522bce5-d4ce-40b7-8a01-45e1c1a8e526
 
 ## Next Steps
-To further advance this project, it's versatility should be expnaded. Currently, the sensor only works for readings of 1/2 a cup. A simple change would be to calibrate sensor to also detect 1/4 cup, 3/4 cup and other useful measurments that are found in recipies. If all of these readings are added, it could become hard for people with vision impairments to know exactly what measurment they are currently at when their only indicator is a buzzer. To make it more clear what measurment has been reached, the buzzer can be replaced with a speaker that sounds the current amount of liquid in the cup. As well, more LED's can be added and programmed to light up for different measurments.
+To further advance this project, it's versatility should be expnaded. Currently, the sensor only works for readings of 1/2 a cup. A simple change would be to calibrate sensor to also detect 1/4 cup, 3/4 cup and other useful measurments that are found in recipies. If all of these readings are added, it could become hard for people with vision impairments to know exactly what measurment they are currently at when their only indicator is a buzzer. To make it more clear what measurment has been reached, the buzzer can be replaced with a speaker that announces the current amount of liquid in the cup. As well, more LED's can be added and programmed to light up for different measurments.
 
 
 
