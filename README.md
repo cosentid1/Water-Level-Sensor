@@ -19,5 +19,6 @@ Once this has been done, use another pin on the Arduino as a digital output pin 
 One important note about using the water-level sensor is that it's design makes it very sensitive to the angle that it is placed at in the measuring cup. If there is too much of an angle, then the reading will be off and the wrong measurment will be recorded. This is why it is important to place the sensor as verticle as possible and prevent it from sliding when the liquid is beign poured.
 
 ## Demo Video
+https://github.com/user-attachments/assets/3ba07c4f-07d3-415e-9a2d-6bedd92e8644
 
 ## Next Steps
